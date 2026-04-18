@@ -1,2 +1,21 @@
-# custom-cnn-mnist
-This project implements a Convolutional Neural Network (CNN) from scratch using only NumPy, without relying on deep learning frameworks. The model is designed to perform image classification on the MNIST.  The CNN architecture includes core components such as convolution, ReLU activation, max pooling, flattening, and a fully connected layers.
+# Custom CNN from Scratch
+
+This project implements a Convolutional Neural Network (CNN) from scratch using NumPy.
+
+## Features
+- Convolution layer
+- ReLU activation
+- Max pooling
+- Fully connected layer
+- Softmax classification
+
+## Dataset
+MNIST handwritten digits dataset
+
+## Tools Used
+- Python
+- NumPy
+- Google Colab
+
+## Output
+The model is trained on a subset of MNIST and achieves basic classification accuracy..
