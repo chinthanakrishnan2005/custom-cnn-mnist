@@ -1,21 +1,43 @@
 # Custom CNN from Scratch
+# Custom CNN with Performance Visualization
 
-This project implements a Convolutional Neural Network (CNN) from scratch using NumPy.
+## 📌 Description
+This project presents an enhanced implementation of a Convolutional Neural Network (CNN) built from scratch using NumPy. The model is applied to the MNIST dataset for handwritten digit classification, with additional focus on performance analysis and visualization.
 
-## Features
-- Convolution layer
-- ReLU activation
-- Max pooling
-- Fully connected layer
-- Softmax classification
+## 🎯 Key Highlights
+- Manual implementation of CNN layers
+- Improved architecture with multiple filters
+- Training with gradient-based updates
+- Visualization of learning behavior
 
-## Dataset
-MNIST handwritten digits dataset
+## ⚙️ Features
+- Convolution operation with multiple filters
+- ReLU activation function
+- Max pooling for dimensionality reduction
+- Fully connected layer for classification
+- Softmax output with probability distribution
+- Prediction with confidence scores
 
-## Tools Used
+##  Tools & Technologies
 - Python
 - NumPy
+- Matplotlib
 - Google Colab
 
-## Output
-The model is trained on a subset of MNIST and achieves basic classification accuracy..
+##  Dataset
+- MNIST handwritten digits dataset
+
+##  Results
+- Gradual decrease in training loss
+- Improvement in accuracy across epochs
+- Test Accuracy: ~55%–65%
+
+##  Visualization
+- Loss Curve (Loss vs Epoch)
+- Accuracy Curve (Accuracy vs Epoch)
+- Sample predictions with confidence scores
+
+##  Sample Output
+The model predicts handwritten digits and displays the predicted class along with confidence levels, helping to interpret model decisions.
+
+##  Project Structure
