@@ -1,16 +1,16 @@
 # Custom CNN from Scratch
 # Custom CNN with Performance Visualization
 
-## 📌 Description
+##  Description
 This project presents an enhanced implementation of a Convolutional Neural Network (CNN) built from scratch using NumPy. The model is applied to the MNIST dataset for handwritten digit classification, with additional focus on performance analysis and visualization.
 
-## 🎯 Key Highlights
+##  Key Highlights
 - Manual implementation of CNN layers
 - Improved architecture with multiple filters
 - Training with gradient-based updates
 - Visualization of learning behavior
 
-## ⚙️ Features
+##  Features
 - Convolution operation with multiple filters
 - ReLU activation function
 - Max pooling for dimensionality reduction
